@@ -7,6 +7,5 @@
 <br/>- These models can be viewed in the UI Design tool QT Design Studio. 
 <br/>- There will be future modifications to these models later along the line.
 <br/>- The updated version now has a Python implementation to render the .qml files.
-<br/>- After you git clone this repo you can download the requirements to run the main.py with
-
-  pip install -r requirements.txt 
+<br/>- After you clone this repo to your machine you can download the requirements to run the main.py with
+```pip install -r requirements.txt 
