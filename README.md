@@ -8,4 +8,4 @@
 <br/>- There will be future modifications to these models later along the line.
 <br/>- The updated version now has a Python implementation to render the .qml files.
 <br/>- After you clone this repo to your machine you can download the requirements to run the main.py with
-```pip install -r requirements.txt 
+```pip install -r requirements.txt``` 
